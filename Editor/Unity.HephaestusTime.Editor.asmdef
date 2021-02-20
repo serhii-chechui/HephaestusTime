@@ -1,0 +1,20 @@
+{
+    "name": "Unity.HephaestusTime.Editor",
+    "references": [
+        "GUID:343deaaf83e0cee4ca978e7df0b80d21",
+        "GUID:dda4958c0f5ab43b881647dbd9d2e37e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
